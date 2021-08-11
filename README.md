@@ -36,8 +36,15 @@ checkboxes
 links
 [this is the clickable link](https://google.com)
 
+table
 
+| table heading | table heading | table heading |
+| ------------- | ------------- | ------------- |
+| table data    | table data    | table data    |
+| table data    | table data    | table data    |
+| table data    | table data    | table data    |
 
+``` this is the code ´´´
 
 
 
