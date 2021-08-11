@@ -34,7 +34,7 @@ checkboxes
  - [ ] yellow
 
 links
-[this is the clickable link] (https://google.com)
+[this is the clickable link](https://google.com)
 
 
 
